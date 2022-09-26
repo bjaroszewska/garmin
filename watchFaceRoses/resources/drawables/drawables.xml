@@ -1,0 +1,9 @@
+<drawables>
+ <drawable-list id="MenuForeground" background="Graphics.COLOR_RED">
+    <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="SingleRose" filename="onerose.png" />
+    <bitmap id="Roses" filename="roses.png" />
+    <bitmap id="StepsIcon" filename="steps.png" />
+    <bitmap id="BatteryIcon" filename="battery.png" />
+     </drawable-list>
+</drawables>

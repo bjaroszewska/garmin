@@ -1,0 +1,10 @@
+<layout id="WatchFace">
+    <bitmap id="BatteryIcon"  x="35%" y="6%" filename="../drawables/battery.png" />
+    <label id="BatteryLabel" x="center" y="5%" font="Graphics.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_YELLOW" />
+    <label id="DateLabel" x="center" y="15%" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_YELLOW" />
+    <bitmap id="SingleRose" x="0%" y="50%" filename="../drawables/onerose.png" />
+    <label id="TimeLabel" x="center" y="center" font="Graphics.FONT_NUMBER_MEDIUM" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_YELLOW" />
+    <bitmap id="Roses" x="60%" y="25%" filename="../drawables/roses.png" />
+    <label id="StepsLabel" x="center" y="80%" font="Gfx.FONT_SMALL" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_YELLOW" />
+    <bitmap id="StepsIcon" x="center" y="70%" filename="../drawables/steps.png"  scaleY="10%" scaleRelativeTo="screen"   />
+</layout>

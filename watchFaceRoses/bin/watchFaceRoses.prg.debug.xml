@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="1" lineNum="10" parent="globals/watchFaceRosesView" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="1" lineNum="11" parent="globals/watchFaceRosesView" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="2" lineNum="15" parent="globals/watchFaceRosesView" pc="268435479" symbol="onLayout"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="2" lineNum="16" parent="globals/watchFaceRosesView" pc="268435483" symbol="onLayout"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="2" lineNum="17" parent="globals/watchFaceRosesView" pc="268435520" symbol="onLayout"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="2" lineNum="18" parent="globals/watchFaceRosesView" pc="268435544" symbol="onLayout"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="2" lineNum="19" parent="globals/watchFaceRosesView" pc="268435568" symbol="onLayout"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="2" lineNum="20" parent="globals/watchFaceRosesView" pc="268435592" symbol="onLayout"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="2" lineNum="21" parent="globals/watchFaceRosesView" pc="268435616" symbol="onLayout"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="2" lineNum="22" parent="globals/watchFaceRosesView" pc="268435646" symbol="onLayout"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="3" lineNum="28" parent="globals/watchFaceRosesView" pc="268435677" symbol="onShow"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="4" lineNum="32" parent="globals/watchFaceRosesView" pc="268435682" symbol="onUpdate"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="4" lineNum="34" parent="globals/watchFaceRosesView" pc="268435686" symbol="onUpdate"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="4" lineNum="35" parent="globals/watchFaceRosesView" pc="268435703" symbol="onUpdate"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="4" lineNum="36" parent="globals/watchFaceRosesView" pc="268435777" symbol="onUpdate"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="4" lineNum="37" parent="globals/watchFaceRosesView" pc="268435801" symbol="onUpdate"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="4" lineNum="40" parent="globals/watchFaceRosesView" pc="268435815" symbol="onUpdate"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="4" lineNum="41" parent="globals/watchFaceRosesView" pc="268435871" symbol="onUpdate"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="4" lineNum="42" parent="globals/watchFaceRosesView" pc="268435895" symbol="onUpdate"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="4" lineNum="47" parent="globals/watchFaceRosesView" pc="268435981" symbol="onUpdate"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="4" lineNum="48" parent="globals/watchFaceRosesView" pc="268436000" symbol="onUpdate"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="4" lineNum="49" parent="globals/watchFaceRosesView" pc="268436010" symbol="onUpdate"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="4" lineNum="50" parent="globals/watchFaceRosesView" pc="268436062" symbol="onUpdate"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="4" lineNum="53" parent="globals/watchFaceRosesView" pc="268436082" symbol="onUpdate"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="4" lineNum="54" parent="globals/watchFaceRosesView" pc="268436099" symbol="onUpdate"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="4" lineNum="55" parent="globals/watchFaceRosesView" pc="268436157" symbol="onUpdate"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="4" lineNum="57" parent="globals/watchFaceRosesView" pc="268436177" symbol="onUpdate"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="4" lineNum="58" parent="globals/watchFaceRosesView" pc="268436213" symbol="onUpdate"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="4" lineNum="60" parent="globals/watchFaceRosesView" pc="268436225" symbol="onUpdate"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="5" lineNum="67" parent="globals/watchFaceRosesView" pc="268436246" symbol="onHide"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="6" lineNum="71" parent="globals/watchFaceRosesView" pc="268436251" symbol="onExitSleep"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="7" lineNum="75" parent="globals/watchFaceRosesView" pc="268436256" symbol="onEnterSleep"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="8" lineNum="6" parent="globals/watchFaceRosesView" pc="268438160" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesView.mc" id="8" lineNum="6" parent="globals/watchFaceRosesView" pc="268438160" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesApp.mc" id="10" lineNum="7" parent="globals/watchFaceRosesApp" pc="268436261" symbol="initialize"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesApp.mc" id="10" lineNum="8" parent="globals/watchFaceRosesApp" pc="268436265" symbol="initialize"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesApp.mc" id="11" lineNum="12" parent="globals/watchFaceRosesApp" pc="268436284" symbol="onStart"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesApp.mc" id="12" lineNum="16" parent="globals/watchFaceRosesApp" pc="268436289" symbol="onStop"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesApp.mc" id="13" lineNum="20" parent="globals/watchFaceRosesApp" pc="268436294" symbol="getInitialView"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesApp.mc" id="13" lineNum="21" parent="globals/watchFaceRosesApp" pc="268436298" symbol="getInitialView"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesApp.mc" id="14" lineNum="5" parent="globals/watchFaceRosesApp" pc="268438179" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesApp.mc" id="14" lineNum="5" parent="globals/watchFaceRosesApp" pc="268438179" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesApp.mc" id="15" lineNum="26" parent="globals" pc="268436336" symbol="getApp"/>
+        <entry filename="/Users/bea/Documents/codingcardio/garminWatchFace/garmin/watchFaceRoses/source/watchFaceRosesApp.mc" id="15" lineNum="27" parent="globals" pc="268436348" symbol="getApp"/>
+        <entry filename="Rez" id="17" lineNum="18" parent="globals/Rez/Drawables/MenuForeground" pc="268436365" symbol="initialize"/>
+        <entry filename="Rez" id="17" lineNum="19" parent="globals/Rez/Drawables/MenuForeground" pc="268436369" symbol="initialize"/>
+        <entry filename="Rez" id="17" lineNum="20" parent="globals/Rez/Drawables/MenuForeground" pc="268436393" symbol="initialize"/>
+        <entry filename="Rez" id="17" lineNum="21" parent="globals/Rez/Drawables/MenuForeground" pc="268436440" symbol="initialize"/>
+        <entry filename="Rez" id="17" lineNum="22" parent="globals/Rez/Drawables/MenuForeground" pc="268436487" symbol="initialize"/>
+        <entry filename="Rez" id="17" lineNum="23" parent="globals/Rez/Drawables/MenuForeground" pc="268436534" symbol="initialize"/>
+        <entry filename="Rez" id="17" lineNum="24" parent="globals/Rez/Drawables/MenuForeground" pc="268436581" symbol="initialize"/>
+        <entry filename="Rez" id="18" lineNum="27" parent="globals/Rez/Drawables/MenuForeground" pc="268436629" symbol="draw"/>
+        <entry filename="Rez" id="18" lineNum="28" parent="globals/Rez/Drawables/MenuForeground" pc="268436633" symbol="draw"/>
+        <entry filename="Rez" id="18" lineNum="29" parent="globals/Rez/Drawables/MenuForeground" pc="268436644" symbol="draw"/>
+        <entry filename="Rez" id="18" lineNum="30" parent="globals/Rez/Drawables/MenuForeground" pc="268436656" symbol="draw"/>
+        <entry filename="Rez" id="18" lineNum="34" parent="globals/Rez/Drawables/MenuForeground" pc="268436663" symbol="draw"/>
+        <entry filename="Rez" id="18" lineNum="35" parent="globals/Rez/Drawables/MenuForeground" pc="268436699" symbol="draw"/>
+        <entry filename="Rez" id="18" lineNum="36" parent="globals/Rez/Drawables/MenuForeground" pc="268436731" symbol="draw"/>
+        <entry filename="Rez" id="18" lineNum="38" parent="globals/Rez/Drawables/MenuForeground" pc="268436767" symbol="draw"/>
+        <entry filename="Rez" id="18" lineNum="40" parent="globals/Rez/Drawables/MenuForeground" pc="268436797" symbol="draw"/>
+        <entry filename="Rez" id="18" lineNum="42" parent="globals/Rez/Drawables/MenuForeground" pc="268436827" symbol="draw"/>
+        <entry filename="Rez" id="18" lineNum="44" parent="globals/Rez/Drawables/MenuForeground" pc="268436857" symbol="draw"/>
+        <entry filename="Rez" id="18" lineNum="46" parent="globals/Rez/Drawables/MenuForeground" pc="268436887" symbol="draw"/>
+        <entry filename="Rez" id="19" lineNum="14" parent="globals/Rez/Drawables/MenuForeground" pc="268438136" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="19" lineNum="14" parent="globals/Rez/Drawables/MenuForeground" pc="268438136" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="20" lineNum="2" parent="globals/Rez/Drawables" pc="268438135" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="21" lineNum="53" parent="globals/Rez/Fonts" pc="268438156" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="22" lineNum="55" parent="globals/Rez/JsonData" pc="268438158" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="23" lineNum="64" parent="globals/Rez/Layouts" pc="268436918" symbol="WatchFace"/>
+        <entry filename="Rez" id="23" lineNum="66" parent="globals/Rez/Layouts" pc="268436930" symbol="WatchFace"/>
+        <entry filename="Rez" id="23" lineNum="67" parent="globals/Rez/Layouts" pc="268437035" symbol="WatchFace"/>
+        <entry filename="Rez" id="23" lineNum="68" parent="globals/Rez/Layouts" pc="268437057" symbol="WatchFace"/>
+        <entry filename="Rez" id="23" lineNum="69" parent="globals/Rez/Layouts" pc="268437190" symbol="WatchFace"/>
+        <entry filename="Rez" id="23" lineNum="70" parent="globals/Rez/Layouts" pc="268437323" symbol="WatchFace"/>
+        <entry filename="Rez" id="23" lineNum="71" parent="globals/Rez/Layouts" pc="268437428" symbol="WatchFace"/>
+        <entry filename="Rez" id="23" lineNum="72" parent="globals/Rez/Layouts" pc="268437450" symbol="WatchFace"/>
+        <entry filename="Rez" id="23" lineNum="73" parent="globals/Rez/Layouts" pc="268437613" symbol="WatchFace"/>
+        <entry filename="Rez" id="23" lineNum="74" parent="globals/Rez/Layouts" pc="268437718" symbol="WatchFace"/>
+        <entry filename="Rez" id="23" lineNum="75" parent="globals/Rez/Layouts" pc="268437740" symbol="WatchFace"/>
+        <entry filename="Rez" id="23" lineNum="76" parent="globals/Rez/Layouts" pc="268437873" symbol="WatchFace"/>
+        <entry filename="Rez" id="23" lineNum="77" parent="globals/Rez/Layouts" pc="268437985" symbol="WatchFace"/>
+        <entry filename="Rez" id="23" lineNum="79" parent="globals/Rez/Layouts" pc="268438022" symbol="WatchFace"/>
+        <entry filename="Rez" id="24" lineNum="57" parent="globals/Rez/Layouts" pc="268438157" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="25" lineNum="84" parent="globals/Rez/Menus" pc="268438155" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="26" lineNum="86" parent="globals/Rez/Strings" pc="268438159" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="27" lineNum="1" parent="globals/Rez" pc="268438111" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="27" lineNum="1" parent="globals/Rez" pc="268438111" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry field="true" id="20" symbol="image_SingleRose"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="10" object="true" symbol="watchFaceRosesApp"/>
+        <entry field="true" id="21" symbol="image_Roses"/>
+        <entry field="true" id="26" symbol="batteryLabelView"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry field="true" id="24" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry field="true" id="15" symbol="StepsIcon"/>
+        <entry field="true" id="19" symbol="image_LauncherIcon"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="12" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="25" symbol="stepsLabelView"/>
+        <entry field="true" id="8391300" method="true" symbol="isVisible"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389376" method="true" symbol="onEnterSleep"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry field="true" id="14" symbol="Roses"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry field="true" id="23" symbol="image_BatteryIcon"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry id="8389068" method="true" symbol="draw"/>
+        <entry id="9" object="true" symbol="watchFaceRosesView"/>
+        <entry field="true" id="17" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="16" symbol="BatteryIcon"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="13" symbol="SingleRose"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry field="true" id="22" symbol="image_StepsIcon"/>
+        <entry id="11" module="true" symbol="Layouts"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="18" object="true" symbol="MenuForeground"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435675" name="batteryView" stackId="4" startPc="268435483"/>
+        <entry endPc="268435675" name="rosesView" stackId="3" startPc="268435483"/>
+        <entry endPc="268435675" name="stepsView" stackId="5" startPc="268435483"/>
+        <entry endPc="268435675" name="singleRoseView" stackId="2" startPc="268435483"/>
+        <entry arg="true" endPc="268435676" name="dc" stackId="1" startPc="268435479"/>
+        <entry endPc="268436244" name="timeString" stackId="3" startPc="268435686"/>
+        <entry endPc="268436244" name="systemStats" stackId="10" startPc="268435686"/>
+        <entry endPc="268436244" name="batteryString" stackId="11" startPc="268435686"/>
+        <entry endPc="268436244" name="now" stackId="5" startPc="268435686"/>
+        <entry endPc="268436244" name="stepsString" stackId="9" startPc="268435686"/>
+        <entry endPc="268436244" name="info" stackId="7" startPc="268435686"/>
+        <entry endPc="268436244" name="clockTime" stackId="2" startPc="268435686"/>
+        <entry endPc="268436244" name="timeLabelView" stackId="4" startPc="268435686"/>
+        <entry endPc="268436244" name="dateLabelView" stackId="6" startPc="268435686"/>
+        <entry endPc="268436244" name="steps" stackId="8" startPc="268435686"/>
+        <entry arg="true" endPc="268436245" name="dc" stackId="1" startPc="268435682"/>
+        <entry arg="true" endPc="268436288" name="state" stackId="1" startPc="268436284"/>
+        <entry arg="true" endPc="268436293" name="state" stackId="1" startPc="268436289"/>
+        <entry arg="true" endPc="268436917" name="dc" stackId="1" startPc="268436629"/>
+        <entry endPc="268438108" name="rez_cmp_local_text_StepsLabel" stackId="8" startPc="268436930"/>
+        <entry endPc="268438108" name="rez_cmp_local_bitmap_Roses" stackId="7" startPc="268436930"/>
+        <entry endPc="268438108" name="rez_cmp_local_text_BatteryLabel" stackId="3" startPc="268436930"/>
+        <entry endPc="268438108" name="rez_cmp_local_text_TimeLabel" stackId="6" startPc="268436930"/>
+        <entry endPc="268438108" name="rez_cmp_local_bitmap_SingleRose" stackId="5" startPc="268436930"/>
+        <entry endPc="268438108" name="rez_cmp_local_text_DateLabel" stackId="4" startPc="268436930"/>
+        <entry endPc="268438108" name="rez_cmp_local_bitmap_StepsIcon" stackId="9" startPc="268436930"/>
+        <entry endPc="268438108" name="rez_cmp_local_bitmap_BatteryIcon" stackId="2" startPc="268436930"/>
+        <entry arg="true" endPc="268438109" name="dc" stackId="1" startPc="268436918"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="SingleRose"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Roses"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="StepsIcon"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="BatteryIcon"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="MenuForeground" module="globals/Rez/Drawables" symbol="image_LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="MenuForeground" module="globals/Rez/Drawables" symbol="image_SingleRose"/>
+        <annotationEntry annotation="initialized" class="MenuForeground" module="globals/Rez/Drawables" symbol="image_Roses"/>
+        <annotationEntry annotation="initialized" class="MenuForeground" module="globals/Rez/Drawables" symbol="image_StepsIcon"/>
+        <annotationEntry annotation="initialized" class="MenuForeground" module="globals/Rez/Drawables" symbol="image_BatteryIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Rez" offset="158" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="237" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Drawables/MenuForeground" offset="316" parentId="Drawables" symbolId="MenuForeground" type="class"/>
+        <dataEntry label="globals/Rez/Menus" offset="411" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="442" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="473" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="512" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="543" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/watchFaceRosesView" offset="582" parentId="globals" symbolId="watchFaceRosesView" type="class"/>
+        <dataEntry label="globals/watchFaceRosesApp" offset="693" parentId="globals" symbolId="watchFaceRosesApp" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435478" name="initialize" parent="watchFaceRosesView" startPc="268435456">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435676" name="onLayout" parent="watchFaceRosesView" startPc="268435479">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435681" name="onShow" parent="watchFaceRosesView" startPc="268435677">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436245" name="onUpdate" parent="watchFaceRosesView" startPc="268435682">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436250" name="onHide" parent="watchFaceRosesView" startPc="268436246">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436255" name="onExitSleep" parent="watchFaceRosesView" startPc="268436251">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436260" name="onEnterSleep" parent="watchFaceRosesView" startPc="268436256">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438178" name="&lt;init&gt;" parent="watchFaceRosesView" startPc="268438160">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436283" name="initialize" parent="watchFaceRosesApp" startPc="268436261">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436288" name="onStart" parent="watchFaceRosesApp" startPc="268436284">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436293" name="onStop" parent="watchFaceRosesApp" startPc="268436289">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436335" name="getInitialView" parent="watchFaceRosesApp" startPc="268436294">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438197" name="&lt;init&gt;" parent="watchFaceRosesApp" startPc="268438179">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436364" name="getApp" startPc="268436336">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436628" name="initialize" parent="MenuForeground" startPc="268436365">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436917" name="draw" parent="MenuForeground" startPc="268436629">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438154" name="&lt;init&gt;" parent="MenuForeground" startPc="268438136">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438135" name="&lt;init&gt;" parent="Drawables" startPc="268438135">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438156" name="&lt;init&gt;" parent="Fonts" startPc="268438156">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438158" name="&lt;init&gt;" parent="JsonData" startPc="268438158">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438109" name="WatchFace" parent="Layouts" startPc="268436918">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438157" name="&lt;init&gt;" parent="Layouts" startPc="268438157">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438155" name="&lt;init&gt;" parent="Menus" startPc="268438155">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438159" name="&lt;init&gt;" parent="Strings" startPc="268438159">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268438134" name="&lt;init&gt;" parent="Rez" startPc="268438111">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
